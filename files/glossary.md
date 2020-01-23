@@ -215,6 +215,14 @@ Read the articles below to learn more:
 
 
 ## PaaS
+The word that I decided to research was PaaS. Platform as a Service (PaaS) is a cloud computing model in which an external source can provide hardware and software components concerning development. PaaS does great in virilization environments and application development. PaaS specializes in building platforms as a service. This is one of three components of cloud computing (SaaS, PaaS, IaaS).
+           Some companies that use PaaS every single day are AWS, Google App Engine, VMware (Dell), Salesforce and Microsoft Azure. All these companies believe in the virtualization of a system. By allowing a service to go virtual and be used on any system, it allows them to attract more customers and make more money in the long run. Below I attached three articles I enjoyed about PaaS and how it helps a business in the long run.
+
+1. https://finance.yahoo.com/news/mobiquity-l2-execute-technology-partnership-133000830.html
+
+2. https://www.finextra.com/blogposting/18314/payments-as-a-service---a-new-normal-future-of-payments
+
+3. https://www.marketjournal.co.uk/public-cloud-platform-as-a-service-paas-market-growth-scenario-2025/80323/
 
 
 ## SaaS
